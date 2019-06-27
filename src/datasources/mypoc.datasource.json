@@ -1,0 +1,6 @@
+{
+  "name": "mypoc",
+  "url": "mongodb://demouser:demouser1@ds161475.mlab.com:61475/databasedemo",
+  "connector": "loopback-connector-mongodb",
+  "collectionName": "employees"
+}
